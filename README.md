@@ -5,7 +5,7 @@ List of the interesting articles, blogs, etc. connected to Data Science / Machin
 ## Blogs
 
 * **Uber Engineering** [(Link)](https://eng.uber.com) - Use cases
-* **Vincent D. Warmerdam** [(Link)](https://koaning.io) - Data Science methodology
+* **Vincent D. Warmerdam** [(Link)](https://koaning.io) [(Link)](https://www.youtube.com/results?search_query=Vincent+D.+Warmerdam) - Data Science methodology
 * **Tom Augspurger** [(Link)](https://tomaugspurger.github.io) - Pandas performance
 
 ## Courses / Books
