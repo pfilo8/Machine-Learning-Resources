@@ -16,4 +16,4 @@ List of the interesting articles and resources
 
 * **A Recipe for Training Neural Networks** A.Karpathy [(Link)](http://karpathy.github.io/2019/04/25/recipe/)
 * **Making Your Neural Network Say “I Don’t Know”** P.Chopra [(Link)](https://towardsdatascience.com/making-your-neural-network-say-i-dont-know-bayesian-nns-using-pyro-and-pytorch-b1c24e6ab8cd)
-* **The Illustrated GPT-2** J. Alammar [(Link)](ttp://jalammar.github.io/illustrated-gpt2/)
+* **The Illustrated GPT-2** J. Alammar [(Link)](http://jalammar.github.io/illustrated-gpt2/)
