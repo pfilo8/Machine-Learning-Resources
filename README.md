@@ -1,6 +1,6 @@
-# Interesting articles
+# Machine Learning resources
 
-List of the interesting articles and resources
+List of the interesting articles, blogs, etc. connected to Data Science / Machine Learning / Deep Learning.
 
 ## General
 
