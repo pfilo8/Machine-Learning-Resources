@@ -8,10 +8,16 @@ List of the interesting articles, blogs, etc. connected to Data Science / Machin
 * **Vincent D. Warmerdam** [(Link)](https://koaning.io) - Data Science methodology
 * **Tom Augspurger** [(Link)](https://tomaugspurger.github.io) - Pandas performance
 
+## Courses / Books
+
+* **Machine Learning Systems Design** [(Link)](https://stanford-cs329s.github.io/syllabus.html) - Very extensive resource for machine learning system building; very good, high level view on the Machine Learning problems
+* **Model-Based Machine Learning** [(Link)](https://www.mbmlbook.com) - Probabilistic modeling; perspetive-shiftting approach
+
 ## Articles
 
 ### General
 
+* **Machine learning systems** C. Huyen [(Link)](https://huyenchip.com/machine-learning-systems-design/toc.html)
 * **Rules of ML** M. Zinkevich [(Link)](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * **Practical advice for analysis of large, complex data sets** P. Riley [(Link)](https://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 * **A Beginner’s Guide to Data Engineering** R. Chang [(Link)](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
