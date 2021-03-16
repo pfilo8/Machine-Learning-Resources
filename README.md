@@ -18,10 +18,11 @@ List of the interesting articles, blogs, etc. connected to Data Science / Machin
 ### General
 
 * **Machine learning systems** C. Huyen [(Link)](https://huyenchip.com/machine-learning-systems-design/toc.html)
-* **Rules of ML** M. Zinkevich [(Link)](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-* **Practical advice for analysis of large, complex data sets** P. Riley [(Link)](https://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
+* **Rules of ML** M. Zinkevich (Google) [(Link)](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+* **Practical advice for analysis of large, complex data sets** P. Riley (Google) [(Link)](https://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 * **The limitations of deep learning** F. Chollet [(Link)](https://blog.keras.io/the-limitations-of-deep-learning.html)
 * **A Beginner’s Guide to Data Engineering** R. Chang [(Link)](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+* **Using JAX to accelerate our research** D.Budden, M.Hessel (DeepMind) [(Link)](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research)
 
 ### Visualization
 
